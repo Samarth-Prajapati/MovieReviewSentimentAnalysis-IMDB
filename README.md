@@ -5,7 +5,8 @@ This project is a **Deep Learning + Streamlit web app** that classifies IMDB mov
 The app takes a text review from the user, processes it, and predicts the sentiment along with a confidence score.
 
 ---
-
+- Deployed using Streamlit - https://imdb-movie-review-sentiment.streamlit.app/
+---
 ## 📌 Features
 - Input any movie review in plain text
 - Sentiment classification: **Positive** / **Negative**
